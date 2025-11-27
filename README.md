@@ -1,9 +1,10 @@
 # crochet-motif-detection-thesis
+Please read the English summary of the thesis
 # Crochet Motif Detection – Bachelor's Thesis (Image Processing & Deep Learning)
 
 This repository contains the complete documentation and source code of my Bachelor's Thesis, which has the automatic detection and classification of crochet/knitting motifs using image processing methods and convolutional neural networks. The project explores the potential of deep learning–based pattern recognition in textile crafts, a domain where structured motif identification still remains largely manual.
 
-## 🎓 Thesis Overview
+##  Thesis Overview
 
 Handcrafted crochet motifs exhibit rich visual variability in terms of texture, geometry, and structural complexity. Manual identification of these motifs requires domain expertise and is prone to errors.  
 The aim of this thesis is to develop a computational pipeline capable of:
@@ -13,7 +14,7 @@ The aim of this thesis is to develop a computational pipeline capable of:
 3. **Classifying motifs** using Convolutional Neural Networks  
 4. Providing users with the corresponding **motif name** and a **guide to reproduce it**
 
-## 🧠 Research Motivation
+##  Research Motivation
 
 Although deep learning is widely applied in object recognition, medical imaging, and scene understanding, there is limited academic work on **structured textile motif analysis**.  
 The research addresses the following questions:
@@ -26,7 +27,7 @@ The study situates itself at the intersection of **computer vision**, **pattern 
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### **1. Data Preparation**
 - Creating database from independent research
