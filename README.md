@@ -19,9 +19,9 @@ The aim of this thesis is to develop a computational pipeline capable of:
 Although deep learning is widely applied in object recognition, medical imaging, and scene understanding, there is limited academic work on **structured textile motif analysis**.  
 The research addresses the following questions:
 
-- *Can convolutional neural networks reliably identify handcrafted crochet motifs?*  
-- *Which preprocessing methods improve recognition accuracy for textured, repetitive patterns?*  
-- *How transferable are architectures such as ResNet to this domain?*  
+*Can convolutional neural networks reliably identify handcrafted crochet motifs?*  
+ *Which preprocessing methods improve recognition accuracy for textured, repetitive patterns?*  
+*How transferable are architectures such as ResNet to this domain?*  
 
 The study situates itself at the intersection of **computer vision**, **pattern recognition**, and **traditional craft digitization**.
 
@@ -30,24 +30,21 @@ The study situates itself at the intersection of **computer vision**, **pattern 
 ##  Methodology
 
 ### **1. Data Preparation**
-- Creating database from independent research
-- Image normalization  
+Creating database from independent research
+Image normalization  
 
 ### **2. Model Architecture**
 The backbone of the system is a **ResNet-based Convolutional Neural Network**, chosen for its proven performance in hierarchical feature extraction.  
 Transfer learning was employed to leverage pretrained ImageNet weights, followed by fine-tuning on motif-specific data.
 
 ### **3. Evaluation Metrics**
-- Accuracy  
-- Precision / Recall  
-- Confusion matrices  
-- Feature visualization via activation maps  
+Accuracy  
+ Precision / Recall  
+Confusion matrices  
+Feature visualization via activation maps  
 
 ### **4. Implementation Tools**
-- **Python**  
-- **googlecolab**  
-- **PyTorch**  
-- **NumPy / SciPy**  
+**Python** , **googlecolab** , **PyTorch** , **NumPy / SciPy**  
 
 
 
